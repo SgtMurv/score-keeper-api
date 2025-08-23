@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreKeeperApi", "ScoreKeeperApi\ScoreKeeperApi.csproj", "{BA7FFB6C-FBE9-4717-9C52-547BC1AAE11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreKeeperApi.UnitTests", "ScoreKeeperApi.UnitTests\ScoreKeeperApi.UnitTests.csproj", "{2046271D-1867-4FC4-90C4-1208D3158D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7FFB6C-FBE9-4717-9C52-547BC1AAE11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7FFB6C-FBE9-4717-9C52-547BC1AAE11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7FFB6C-FBE9-4717-9C52-547BC1AAE11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7FFB6C-FBE9-4717-9C52-547BC1AAE11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2046271D-1867-4FC4-90C4-1208D3158D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2046271D-1867-4FC4-90C4-1208D3158D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2046271D-1867-4FC4-90C4-1208D3158D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2046271D-1867-4FC4-90C4-1208D3158D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
